@@ -2,14 +2,11 @@
 title: "How to write user requirements"
 comments: true
 read_time: true
-categories:
-  - Software
-  - Documentation
-  - Requirements
-  - User Requirements
 tags:
   - requirements
+  - user-requirements
   - documentation
+  - software
 ---
 
 # Welcome
