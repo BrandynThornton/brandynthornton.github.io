@@ -190,10 +190,10 @@ kramdown:
 
 
 # Collections
-# collections:
-#   posts:
-#     output: true
-#     permalink: /:collection/:path/
+collections:
+  posts:
+    output: true
+    permalink: /:collection/:path/
 #   recipes:
 #     output: true
 #     permalink: /:collection/:path/
@@ -273,8 +273,8 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-# paginate: 5 # amount of posts to show
-# paginate_path: /page:num/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
 timezone: America/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
