@@ -14,9 +14,9 @@ locale                   : "en-US"
 title                    : "THORB"
 title_separator          : "-"
 name                     : &name "Brandyn Thornton" # &name is a YAML anchor which can be *referenced later
-description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
+description              : &description "A development blog."
 url                      : https://brandynthornton.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "BrandynThornton/brandynthornton.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
