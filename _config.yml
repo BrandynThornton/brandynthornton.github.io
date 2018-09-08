@@ -67,7 +67,7 @@ algolia:
     # - _posts/2017-11-28-post-exclude-search.md
 
 # SEO Related
-google_site_verification : # "UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y" # Replace this with your ID, or delete
+google_site_verification : "V7xr8BDKfwFRxwlWdP2udEzf8aNF4SLV-xx2LR3g9dM" # Replace this with your ID, or delete
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
@@ -91,16 +91,16 @@ social:
 
 # Analytics
 analytics:
-  provider               : #"google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : #"UA-2011187-3" # Replace this with your ID, or delete
-    anonymize_ip         : # true
+    tracking_id          : "UA-125424198-1" # Replace this with your ID, or delete
+    anonymize_ip         : true
 
 
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : # "/assets/images/michael-rose.jpg"
+  avatar           : "/assets/images/brandyn-thornton.PNG"
   bio              : "Code. Work. Play."
   location         : "Los Angeles, CA"
   email            :
