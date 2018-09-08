@@ -13,7 +13,7 @@ https://github.com/BrandynThornton</td>
   <tr>
     <td/>
     <td>
-    [Download as PDF url="http://www.google.com"]
+    [button url="http://www.google.com"]
     </td>
   </tr>
 </table>
