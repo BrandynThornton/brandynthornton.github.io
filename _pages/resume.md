@@ -3,21 +3,22 @@ title: Resume
 permalink: /resume/
 classes: wide
 ---
+[Download as PDF](/files/resume.pdf){: .btn .btn--primary}
 
 <table>
   <tr>
     <td>Brandyn Thornton</td>
-    <td>https://www.linkedin.com/in/brandyn-thornton
-https://github.com/BrandynThornton</td>
+    <td>
+    https://www.linkedin.com/in/brandyn-thornton
+    </td>
   </tr>
   <tr>
     <td/>
     <td>
-    [Download as PDF](/files/resume.pdf){: .btn .btn--primary}
+    https://github.com/BrandynThornton
     </td>
   </tr>
 </table>
-
 
 **OBJECTIVE**
 
