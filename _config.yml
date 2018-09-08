@@ -49,8 +49,8 @@ staticman:
       options:
         format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 reCaptcha:
-  siteKey                : # "6LdRBykTAAAAAFB46MnIu6ixuxwu9W1ihFF8G60Q"
-  secret                 : # "PznnZGu3P6eTHRPLORniSq+J61YEf+A9zmColXDM5icqF49gbunH51B8+h+i2IvewpuxtA9TFoK68TuhUp/X3YKmmqhXasegHYabY50fqF9nJh9npWNhvITdkQHeaOqnFXUIwxfiEeUt49Yoa2waRR7a5LdRAP3SVM8hz0KIBT4="
+  siteKey                : "6LePOW8UAAAAAPGOrdLiSWHWvxN5pTF8SnQhyNmV"
+  secret                 : "tHwx6EM2S8mje3baTLw7bJpo55Iv8f5t+R7/I5CJwgcCkIfUPUK3rIfx34+nY74kL+ZqBi/6/aYTKITw7i2ov7o4lhkQgdmGrQQCk22+mkPWWvxKMgZj0G4rdjLS8fmTdujuDEMCKCNOZ1DXN7d/NWOIfRbMOErfyX79UBRaScI="
 
 atom_feed:
   path                   : # blank (default) uses feed.xml
@@ -114,7 +114,7 @@ author:
   foursquare       :
   github           : "BrandynThornton"
   gitlab           :
-  google_plus      : "+BrandynThornton"
+  google_plus      : # "+BrandynThornton"
   keybase          :
   instagram        :
   lastfm           :

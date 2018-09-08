@@ -3,7 +3,7 @@ title: Resume
 permalink: /resume/
 classes: wide
 ---
-[Download as PDF](/files/resume.pdf){: .btn .btn--primary}
+[Download as PDF](/files/resume.pdf){: .btn}
 
 <table>
   <tr>
